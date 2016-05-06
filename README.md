@@ -1,2 +1,2 @@
-# Stuff
-Various stuff
+# Various JavaScript Stuff
+
